@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Corona virus live update</string>
+    <string name="action_settings">Settings</string>
+    <string name="about"> \n\n<b>Data Source</b>\nwww.worldometers.info\n\n Worldometer is run by an international team of developers, researchers, and volunteers with the goal of making world statistics available in a thought-provoking and time relevant format to a wide audience around the world.</string>
+    <string name="aboutDev"> \n\n<b>Developed by</b>\nGAME CODE \nwww.facebook.com/buygamecode\n\n</string>
+    <string name="title_activity_country_report">CountryReportActivity</string>
+</resources>
